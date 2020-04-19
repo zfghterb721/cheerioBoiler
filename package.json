@@ -1,0 +1,12 @@
+{
+  "name": "cheerioBoiler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zfghterb721/cheerioBoiler.git",
+  "author": "Barrett Routon <barrett@binderpos.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
